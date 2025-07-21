@@ -7,4 +7,4 @@ google-auth-oauthlib==1.2.0
 google-api-python-client==2.130.0
 google-auth-httplib2==0.2.0
 google-auth==2.30.0
-openai-agents==1.35.13
+openai-agents
